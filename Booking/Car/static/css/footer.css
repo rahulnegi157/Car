@@ -1,0 +1,42 @@
+.footer-section {
+    background-color: #f4f4f4;
+}
+.footer-parent {
+    width: 80vw;
+    margin: 20px auto;
+    font-size: 18px;
+}
+.footer-parent div {
+    margin: 10px 0;
+}
+
+.footer-left div{
+    margin: 30px 0 ;
+}   
+.footer-left div h1 {
+    font-size: 30px;
+    font-weight: 500;
+}
+.footer-left-links img {
+    width: 20px;
+    height: 20px;
+    margin: 0 10px;
+}
+.footer-right label {
+    display: block;
+    margin: 5px 0;
+}
+.footer-right input {
+    padding: 10px;
+    font-size: 15px;
+    outline: none;
+    background-color: transparent;
+    border: 1px solid;
+}
+.footer-right textarea{
+    padding:10px;
+    font-size: 15px;
+    resize: none;
+    background-color: transparent;
+
+}
